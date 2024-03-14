@@ -1,0 +1,37 @@
+.search {
+  display: flex;
+  width: 700px;
+  margin-left: 200px;
+}
+
+.searchBox {
+  width: 800px;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.movie {
+  margin-right: 20px;
+}
+
+#root {
+  width: 100%;
+  background: azure;
+}
+
+.searchIcon {
+  width: 80px;
+  height: 30px;
+  background: darkgoldenrod;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+.searchedMovie {
+  color: #ffc300;
+}
